@@ -32,7 +32,7 @@
 [Project-06](https://c-stockdale.github.io/CIT281-P6/): Created my user-level GITHUB page for portfolio, created repo for labs and projects.
                                                         Syntax highlighted code block
 
-[Project-07](https://c-stockdale.github.io/CIT281-p7/): Created User Level Repo and repos for each lab and project for the CIT281 course and GITHUB pages with links.
+[Project-07](https://c-stockdale.github.io/CIT281-P7/): Created User Level Repo and repos for each lab and project for the CIT281 course and GITHUB pages with links.
 
 
 
