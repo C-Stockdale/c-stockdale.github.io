@@ -1,4 +1,4 @@
-!{WATER!{Photo by Berend de Kort from Pexels: https://www.pexels.com/photo/photo-of-bubbles-underwater-1452701/}
+
 
 Lab-01: My First Node.js server-side JavaScript File
 
