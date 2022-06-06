@@ -1,6 +1,7 @@
 ![](docs/assets/images/water.jpg)
 
-Lab-01: My First Node.js server-side JavaScript File
+
+[Lab-01](https://c-stockdale.github.io/cit281-lab-1/): My First Node.js server-side JavaScript File
 
 Lab-02: Locally cloned repo then pushed to this Repo
 
