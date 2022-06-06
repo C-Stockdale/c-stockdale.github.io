@@ -1,4 +1,4 @@
-![](images/water.jpg)
+![](docs/assets/images/water.jpg)
 
 Lab-01: My First Node.js server-side JavaScript File
 
